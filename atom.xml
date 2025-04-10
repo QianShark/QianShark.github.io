@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-10T01:51:01.691Z</updated>
+  <updated>2025-04-10T02:27:21.174Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,19 +21,17 @@
     <link href="http://example.com/2025/04/09/keil5%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2025/04/09/keil5%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99%E8%AE%B0%E5%BD%95/</id>
     <published>2025-04-09T08:48:25.000Z</published>
-    <updated>2025-04-10T01:51:01.691Z</updated>
+    <updated>2025-04-10T02:27:21.174Z</updated>
     
-    <content type="html"><![CDATA[<p>按理来说，keil5破解之后生成新的CID之后就应该破解成功了，具体如图所示：<br><img src="https://pdn4.bmwwx.cn/ynQhH3"><br>但是我点开keil5之后发现他的很多按键还是灰色的：</p>]]></content>
+    <content type="html"><![CDATA[<p>按理来说，keil5破解之后生成新的CID之后就应该破解成功了，具体如图所示：<br><img src="https://i-blog.csdnimg.cn/direct/1fed5a06dd404ddca013cd2cc21b39c1.png" alt="keil5_liscence"><br>但是我点开keil5之后发现他的很多按键还是灰色的：<br><img src="https://i-blog.csdnimg.cn/direct/20c89f1c137647cd8986668284f9b39c.png" alt="keil破解失败"><br>这里主要是因为，我们还没有打开新的工程文件，所以接下来我新建了一个工程文件如下所示，发现build那一栏就都变成彩色的了。<br><img src="https://i-blog.csdnimg.cn/direct/4f1febe9086049a79f27a6a299990d87.png" alt="工具栏回复"></p><span id="more"></span>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;按理来说，keil5破解之后生成新的CID之后就应该破解成功了，具体如图所示：&lt;br&gt;&lt;img src=&quot;https://pdn4.bmwwx.cn/ynQhH3&quot;&gt;&lt;br&gt;但是我点开keil5之后发现他的很多按键还是灰色的：&lt;/p&gt;
-</summary>
-      
+    <summary type="html">&lt;p&gt;按理来说，keil5破解之后生成新的CID之后就应该破解成功了，具体如图所示：&lt;br&gt;&lt;img src=&quot;https://i-blog.csdnimg.cn/direct/1fed5a06dd404ddca013cd2cc21b39c1.png&quot; alt=&quot;keil5_liscence&quot;&gt;&lt;br&gt;但是我点开keil5之后发现他的很多按键还是灰色的：&lt;br&gt;&lt;img src=&quot;https://i-blog.csdnimg.cn/direct/20c89f1c137647cd8986668284f9b39c.png&quot; alt=&quot;keil破解失败&quot;&gt;&lt;br&gt;这里主要是因为，我们还没有打开新的工程文件，所以接下来我新建了一个工程文件如下所示，发现build那一栏就都变成彩色的了。&lt;br&gt;&lt;img src=&quot;https://i-blog.csdnimg.cn/direct/4f1febe9086049a79f27a6a299990d87.png&quot; alt=&quot;工具栏回复&quot;&gt;&lt;/p&gt;</summary>
     
     
     
+    
+    <category term="软件破解， 电子设计" scheme="http://example.com/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3%EF%BC%8C-%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
