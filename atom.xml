@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-09T08:48:25.317Z</updated>
+  <updated>2025-04-10T01:51:01.691Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="http://example.com/2025/04/09/keil5%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2025/04/09/keil5%E5%AE%89%E8%A3%85%E6%8A%A5%E9%94%99%E8%AE%B0%E5%BD%95/</id>
     <published>2025-04-09T08:48:25.000Z</published>
-    <updated>2025-04-09T08:48:25.317Z</updated>
+    <updated>2025-04-10T01:51:01.691Z</updated>
     
+    <content type="html"><![CDATA[<p>按理来说，keil5破解之后生成新的CID之后就应该破解成功了，具体如图所示：<br><img src="https://pdn4.bmwwx.cn/ynQhH3"><br>但是我点开keil5之后发现他的很多按键还是灰色的：</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;按理来说，keil5破解之后生成新的CID之后就应该破解成功了，具体如图所示：&lt;br&gt;&lt;img src=&quot;https://pdn4.bmwwx.cn/ynQhH3&quot;&gt;&lt;br&gt;但是我点开keil5之后发现他的很多按键还是灰色的：&lt;/p&gt;
+</summary>
+      
     
     
     
